@@ -1,0 +1,24 @@
+//
+//  ProjectModel.pch
+//  ProjectModel
+//
+//  Created by ap2 on 15/10/14.
+//  Copyright © 2015年 ap2. All rights reserved.
+//
+
+#ifndef ProjectModel_pch
+#define ProjectModel_pch
+
+#ifndef TARGET_OS_IOS
+#define TARGET_OS_IOS TARGET_OS_IPHONE
+#endif
+#ifndef TARGET_OS_WATCH
+#define TARGET_OS_WATCH 0
+#endif
+
+#import "Macros.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ProjectModel_pch */
