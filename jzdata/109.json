@@ -1,0 +1,132 @@
+{
+	"success": true,
+	"code": 4000,
+	"msg": "成功",
+	"data": {
+		"pageNum": 1,
+		"pageSize": 20,
+		"totalCount": 4,
+		"results": [{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招会议协助人员",
+			"addressDetail": "大泥湾",
+			"jobDate": "1月7日 ~ 1月19日 (共2天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "2",
+				"value": "周结"
+			},
+			"salary": "600元/周",
+			"distance": "1949.75km",
+			"objectType": 1,
+			"hotScore": 4911,
+			"brandName": "新农金投资管理（北京）有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1460353087898_699.jpg-100",
+			"priority": "0",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 300754,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "活动执行实习生",
+			"addressDetail": "华杰大厦B座",
+			"jobDate": "周末节假日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "130元/天",
+			"distance": "1949.29km",
+			"objectType": 1,
+			"hotScore": 9270,
+			"brandName": "萌狮子科技",
+			"companyLogo": "https://qiniu-image.qtshe.com/1526452693860_19.png-100",
+			"priority": "0",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 266946,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "清吧招合作乐队/调酒师",
+			"addressDetail": "剧本堂影视沙龙影视咖啡",
+			"jobDate": "1月4日 ~ 1月31日 (共2天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "200元/天",
+			"distance": "1945.65km",
+			"objectType": 1,
+			"hotScore": 2848,
+			"brandName": "王鹏",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "0",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 300308,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "GET2018教育科技大会招举牌小姐姐",
+			"addressDetail": "北京国际会议中心",
+			"jobDate": "11月13日 ~ 11月15日 (共3天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "150元/天",
+			"distance": "1952.82km",
+			"objectType": 1,
+			"hotScore": 4206,
+			"brandName": "李雪莉",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "0",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 263616,
+			"sourceTag": 0
+		}]
+	},
+	"extra": {}
+}

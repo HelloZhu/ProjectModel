@@ -1,0 +1,12 @@
+{
+	"success": true,
+	"code": 4000,
+	"msg": "成功",
+	"data": {
+		"pageNum": 1,
+		"pageSize": 20,
+		"totalCount": 25,
+		"results": []
+	},
+	"extra": {}
+}

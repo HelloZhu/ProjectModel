@@ -1,0 +1,1811 @@
+{
+	"success": true,
+	"code": 4000,
+	"msg": "成功",
+	"data": {
+		"pageNum": 1,
+		"pageSize": 20,
+		"totalCount": 148,
+		"results": [{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "什么事情让你觉得父母老了",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月22日 ~ 3月1日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 1115,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "2000",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 318100,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招募北京市大学生跑腿办事员，可兼职",
+			"addressDetail": "北京市",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "20元/小时",
+			"distance": "1943.52km",
+			"objectType": 1,
+			"hotScore": 72,
+			"brandName": "湖北昇达商务咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "1103",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317932,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "测测你的内在性格",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月22日 ~ 3月1日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "66青豆",
+			"objectType": 1,
+			"hotScore": 1966,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "640",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 318078,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "高颜值电动牙刷体验员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "5青豆",
+			"objectType": 1,
+			"hotScore": 21386,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "626",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317247,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "小黄鸭卷发棒测评员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 60023,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "608",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314680,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "团团帮你还花呗",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 36455,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "605",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317595,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "灵魂拷问之胖了吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 82369,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "595",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315741,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "灵魂拷问之准备好了吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 54284,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "592",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315734,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "灵魂拷问之起得来吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 62731,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "591",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315740,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "【月光族改造计划】你支持“及时行乐”吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 56331,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "588",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316697,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "领取你的开年基金",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 182344,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "587",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314424,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "丛林仙子香水测评员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 65486,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "584",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314678,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "英伦风行李箱测评员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 48421,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "584",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316403,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "团子感应小夜灯体验员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 68998,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "581",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314257,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "【月光族改造计划】每月团团能帮你赚多少？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 51633,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "578",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316699,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "日式和风香薰机测评员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 103841,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "575",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314264,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "小米多功能电煮锅测评员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 90039,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "574",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314260,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "北欧风清新床品体验员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 55685,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "573",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314263,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "小黄人蓝牙耳机测评员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 79123,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "572",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314685,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "48小时日行万步",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "50元/次",
+			"objectType": 1,
+			"hotScore": 186643,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "566",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316384,
+			"sourceTag": 0
+		},{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "巴厘岛深度人文体验",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/天",
+			"objectType": 1,
+			"hotScore": 8884,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "103",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316730,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "西藏格桑花开小木屋招义工",
+			"addressDetail": "西藏林芝玉荣增村",
+			"jobDate": "长期招募",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 18519,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "72",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 212705,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "去大理的农庄做义工吧",
+			"addressDetail": "大理市大理镇上鸡邑村完全小学旁 ，近大丽线",
+			"jobDate": "长期招募",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 26332,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "53",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 249667,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "以工换宿，邂逅“远方”小确幸",
+			"addressDetail": "江浙地区",
+			"jobDate": "至少一个半月",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 144582,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "46",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 202818,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "深圳南澳星空青旅招义工",
+			"addressDetail": "深圳 龙岗区 南澳街道下横岗村46号",
+			"jobDate": "时间至少1个月",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 9135,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "41",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 255576,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "杭州香樟云舍民宿招义工",
+			"addressDetail": "杭州西湖区灵隐支路白乐桥303.305",
+			"jobDate": "一个月左右",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 10255,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "40",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 255561,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "斯里兰卡暑假义工- 自费通道",
+			"addressDetail": "Galle加勒，Sri Lanka斯里兰卡",
+			"jobDate": "不限工作时间",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 23065,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "35",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 213708,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "西安乐荷青旅招募义工",
+			"addressDetail": "陕西省西安市莲湖区二府街36号",
+			"jobDate": "不限工作时间",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 20153,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "32",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 211821,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "来自三千米海滨藏城的义工",
+			"addressDetail": "青海省海北州刚察县海滨藏城核心区",
+			"jobDate": "八月份开始/30天",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 7953,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "31",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 211812,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "斯里兰卡海龟保育员-自费通道",
+			"addressDetail": "芭拉皮提雅",
+			"jobDate": "2019.1.27-2.2（寒假）",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 5561,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "25",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 262018,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "台湾垦丁冲浪体验 - 自费通道",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/天",
+			"objectType": 1,
+			"hotScore": 4283,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "23",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 276009,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "巴厘岛义工旅行-自费通道",
+			"addressDetail": "巴厘岛",
+			"jobDate": "不限工作时间",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 8907,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "22",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 244257,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "马尔代夫丨晴天，海浪，这里最适合你盛放的年纪",
+			"addressDetail": "Thodoo，Maldives",
+			"jobDate": "任选",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/月",
+			"objectType": 1,
+			"hotScore": 49548,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "22",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 132996,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "三亚海舍客栈招义工",
+			"addressDetail": "海南三亚海棠湾度假区藤海村68号",
+			"jobDate": "即日起，满一个月",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 10882,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "20",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 225568,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "马尔代夫碧海蓝天守护者-自费通道",
+			"addressDetail": "Maldives",
+			"jobDate": "时间任选",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 5700,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "20",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 253217,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "巴厘岛-自费通道",
+			"addressDetail": "不限工作地点",
+			"jobDate": "不限工作时间",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 9445,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "20",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 217669,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "尼泊尔文化教学 - 自费通道",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/天",
+			"objectType": 1,
+			"hotScore": 5991,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "19",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 272443,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "义工旅行逐梦季-自费通道",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/天",
+			"objectType": 1,
+			"hotScore": 5787,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "19",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 290025,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "香格里拉义工-自费通道",
+			"addressDetail": "香格里拉",
+			"jobDate": "不限工作时间",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 5323,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "18",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 244256,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "大熊猫铲屎官-自费通道",
+			"addressDetail": "成都，四川",
+			"jobDate": "时间可选",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 8554,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "18",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 208997,
+			"sourceTag": 0
+		},{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "密室逃脱体验官",
+			"addressDetail": "上海市长宁区定西路825号",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/天",
+			"objectType": 1,
+			"hotScore": 1930,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "78",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317253,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "梦想芸台招募2018年暑假义工",
+			"addressDetail": "杭州市余杭区仓前街道梦想小镇创业大街29幢（梦想田野西侧）",
+			"jobDate": "暑期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 98920,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "19",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 204895,
+			"sourceTag": 0
+		},{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "什么事情让你觉得父母老了",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月22日 ~ 3月1日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 1115,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "2000",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 318100,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "测测你的内在性格",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月22日 ~ 3月1日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "66青豆",
+			"objectType": 1,
+			"hotScore": 1966,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "640",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 318078,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "团团帮你还花呗",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 36455,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "605",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317595,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "【月光族改造计划】你支持“及时行乐”吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 56331,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "588",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316697,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "领取你的开年基金",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/次",
+			"objectType": 1,
+			"hotScore": 182344,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "587",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314424,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "【月光族改造计划】每月团团能帮你赚多少？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 51633,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "578",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316699,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "48小时日行万步",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "50元/次",
+			"objectType": 1,
+			"hotScore": 186643,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "566",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316384,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "【月光族改造计划】你有存钱的习惯吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10青豆",
+			"objectType": 1,
+			"hotScore": 59450,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "563",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316698,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "测测谁会带给你幸福？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月19日 ~ 2月26日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "66青豆",
+			"objectType": 1,
+			"hotScore": 24875,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "561",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316366,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "测测你的专长是什么？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "66青豆",
+			"objectType": 1,
+			"hotScore": 32009,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "526",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316723,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "爱豆能不能谈恋爱？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 170972,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "513",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314573,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "测测你的恋爱天赋",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "66青豆",
+			"objectType": 1,
+			"hotScore": 166094,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "512",
+			"jobLineType": 2,
+			"salaryType": 2,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314458,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "回忆杀：儿时的职业梦想",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月20日 ~ 2月27日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 32253,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "507",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316933,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "你是强迫症患者吗？",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 146126,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "506",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314451,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "初代网名PK大赛",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10元/次",
+			"objectType": 1,
+			"hotScore": 90386,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "503",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316440,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "行动派：早起一杯水",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "50元/次",
+			"objectType": 1,
+			"hotScore": 228153,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "498",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315569,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "一句话证明你是单身狗",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "10元/次",
+			"objectType": 1,
+			"hotScore": 104660,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "498",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314407,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "你最喜欢的奶茶口味",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月20日 ~ 2月27日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 47121,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "495",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316869,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "评一评火锅圈扛把子",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 93554,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "493",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314073,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "青团比懒大赛",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 105783,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "447",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314579,
+			"sourceTag": 0
+		}]
+	},
+	"extra": {}
+}
