@@ -1,0 +1,4238 @@
+{
+    "success": true,
+    "code": 4000,
+    "msg": "成功",
+    "data": {
+        "pageNum": 1,
+        "pageSize": 20,
+        "totalCount": 143,
+        "results": [
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "腾讯花样直播招聘主播",
+                "addressDetail": "在油园新村附近",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "distance": "19.11km",
+                "objectType": 1,
+                "hotScore": 2541,
+                "brandName": "深圳市梦响之声文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 2,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 283892,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘线上才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 65,
+                "brandName": "李媛媛",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "1000",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317895,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线聊天主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 62,
+                "brandName": "李媛媛",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "1000",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317897,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "objectType": 2,
+                "resourceLocation": {
+                    "resourceId": 2200737,
+                    "title": "周末高薪兼职",
+                    "subTitle": "周末高薪兼职",
+                    "targetUrl": "QTSWebViewController",
+                    "image": "https://qiniu-image.qtshe.com/1550730433188_465.jpg",
+                    "shareImage": "",
+                    "resourceLocation": 4,
+                    "resourceType": 8,
+                    "jumpType": 1,
+                    "param": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"portType\":\"1\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=45b9d2777e2a52f64757a76ea98c0aec\"}]",
+                    "openType": 1,
+                    "contentId": 178148939,
+                    "jumpKey": "USER_STATIC_PAGE",
+                    "jumpParam": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=45b9d2777e2a52f64757a76ea98c0aec\"}]"
+                },
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "陌陌直播招募 一对一培训",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 0,
+                "brandName": "风火轮传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500447119043_102.jpg-100",
+                "priority": "1000",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317938,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "视频聊天主播（在家工作）",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "2",
+                    "value": "急招"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "300元/天",
+                "objectType": 1,
+                "hotScore": 251993,
+                "brandName": "洛阳志凌文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "542",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 281920,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募视频娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "2",
+                    "value": "急招"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 4269,
+                "brandName": "洛阳志凌文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "529",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 305549,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘线上才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 5930,
+                "brandName": "洛阳志凌文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "99",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 314613,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招网络主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "distance": "1340.81km",
+                "objectType": 1,
+                "hotScore": 1173,
+                "brandName": "徐州零卡传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "97",
+                "jobLineType": 2,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 293400,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘在线直播主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "15元/小时",
+                "objectType": 1,
+                "hotScore": 960,
+                "brandName": "祁莉雯",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "94",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 304600,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招全国线上主播，周结，高保底",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "1000元/周",
+                "objectType": 1,
+                "hotScore": 899,
+                "brandName": "武汉天驷文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535603418755_33.png-100",
+                "priority": "79",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316584,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募娱乐聊天主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 7854,
+                "brandName": "洛阳志凌文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "76",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 313698,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘一对一视频聊天主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "300元/天",
+                "objectType": 1,
+                "hotScore": 105671,
+                "brandName": "洛阳策氏文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "66",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 279813,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招收网络主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 8210,
+                "brandName": "徐州零卡传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "65",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 295405,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募校园兼职经纪人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 1160,
+                "brandName": "洛阳策氏文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "62",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316794,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 5668,
+                "brandName": "广州尚左信息科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "61",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 298543,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "500元/周",
+                "objectType": 1,
+                "hotScore": 388,
+                "brandName": "深圳市迎风文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "60",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317050,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "不露脸新模式声音主播 18岁以上",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3200元/月",
+                "objectType": 1,
+                "hotScore": 146487,
+                "brandName": "青岛茉蔻文化产业有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "60",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 296712,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "黑曜文化招视频主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 42,
+                "brandName": "黑曜文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530849620600_599.jpg-100",
+                "priority": "55",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317586,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 109,
+                "brandName": "张影",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "55",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317546,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "salary": "10000元/月",
+                "objectType": 1,
+                "hotScore": 765,
+                "brandName": "陈生威",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "54",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315709,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招颜值主播 ",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 127,
+                "brandName": "王智慧",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "52",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317596,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "星探/校园经纪人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "2月21日 ~ 2月28日 (共2天)",
+                "cycleType": {
+                    "key": "1",
+                    "value": "短期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "salary": "300元/周",
+                "objectType": 1,
+                "hotScore": 2130,
+                "brandName": "武汉拾星文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "51",
+                "jobLineType": 2,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317365,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪招募聊天才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 666,
+                "brandName": "重庆漫咖文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1550138523385_853.png-100",
+                "priority": "49",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 314242,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2410,
+                "brandName": "青岛斐创文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "48",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 260546,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "不露脸新模式声音主播 18岁以上",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3300元/月",
+                "objectType": 1,
+                "hotScore": 16246,
+                "brandName": "洛阳策氏文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "47",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316460,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "在线聊天才艺主播（在家）",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 230,
+                "brandName": "山西星幻文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "46",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315333,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2284,
+                "brandName": "南京诗虎信息科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "45",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 272136,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 640,
+                "brandName": "杭州搜骐文化创意有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "45",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 290786,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 3368,
+                "brandName": "杭州搜骐文化创意有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "43",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 305394,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "抖音线上游戏主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 952,
+                "brandName": "洛阳策氏文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "43",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316799,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招虎牙声优主持 声优歌手 有底薪",
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于28",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "50元/天",
+                "objectType": 1,
+                "hotScore": 14855,
+                "brandName": "上海舒惠电子有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "43",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 311318,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2782,
+                "brandName": "众九文化传媒（上海）有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "43",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 279340,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 481,
+                "brandName": "北京枫悦文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "41",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 304713,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪招人人/花椒线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 5952,
+                "brandName": "安能科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1499162742290_694.jpg-100",
+                "priority": "39",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 310601,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 74,
+                "brandName": "李媛媛",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "38",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316896,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招收线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 973,
+                "brandName": "吕冠儒",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "38",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 279589,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招线上网红主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 3094,
+                "brandName": "泡一泡文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522833221019_473.jpg-100",
+                "priority": "37",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 311313,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线聊天才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 146,
+                "brandName": "董硕",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "37",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316844,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "【热门】火山手机主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "工作时间灵活可根据自己时间合理安排，每月休息5-6天",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2626,
+                "brandName": "苏州艾微文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1533016723583_160.png-100",
+                "priority": "36",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 312597,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪招募视频主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 11393,
+                "brandName": "洛阳志凌文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "34",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 282027,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "网络主播工作快速通道",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "300元/天",
+                "objectType": 1,
+                "hotScore": 7069,
+                "brandName": "东方信颐科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1515386925339_66.jpg-100",
+                "priority": "34",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 308766,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线网络主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 143,
+                "brandName": "李媛媛",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "34",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316450,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线聊天才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 158,
+                "brandName": "北京枫悦文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "34",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315463,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "全国招线上主播，在家直播，一对一培训",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4800元/月",
+                "objectType": 1,
+                "hotScore": 14904,
+                "brandName": "滕州市致臻文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534216434102_626.png-100",
+                "priority": "34",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 284166,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "小仙女主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 18448,
+                "brandName": "科恩达科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "34",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 269673,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "10000元/月",
+                "objectType": 1,
+                "hotScore": 166,
+                "brandName": "张雪",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "33",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316817,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "酷狗平台网红主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 8049,
+                "brandName": "无锡糖果文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "33",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 276832,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 946,
+                "brandName": "威海百峰文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "33",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 282553,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "8000元/月",
+                "objectType": 1,
+                "hotScore": 170,
+                "brandName": "无锡热度文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1547792951823_639.png-100",
+                "priority": "33",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315244,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招抖音主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 11424,
+                "brandName": "热度传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1540186425361_222.png-100",
+                "priority": "32",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 302550,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "线上招抖音一直播美拍平台主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 3149,
+                "brandName": "滕州市致臻文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534216434102_626.png-100",
+                "priority": "32",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 294195,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3500元/月",
+                "objectType": 1,
+                "hotScore": 1495,
+                "brandName": "祝影",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "31",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 277788,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "抓住红利期，百度新平台招募线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4800元/月",
+                "objectType": 1,
+                "hotScore": 20507,
+                "brandName": "合肥木子颂文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "31",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 306882,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "salary": "10000元/月",
+                "objectType": 1,
+                "hotScore": 761,
+                "brandName": "张平",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "31",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 314636,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线聊天才艺主播",
+                "addressDetail": "不限工作地址",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 300,
+                "brandName": "西安嘉耀文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "31",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316968,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招音频电台声优主播",
+                "addressDetail": "不限工作地址",
+                "jobDate": "不限工作日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "30元/小时",
+                "objectType": 1,
+                "hotScore": 73611,
+                "brandName": "美美文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1502160197025_1229.jpg-100",
+                "priority": "31",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 298274,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "全国招募一对一视频美女主播在家可做",
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周工作至少4-5天",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "500元/天",
+                "objectType": 1,
+                "hotScore": 321,
+                "brandName": "沐风网络",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531386737006_855.jpg-100",
+                "priority": "30",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315282,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "1200元/周",
+                "objectType": 1,
+                "hotScore": 211,
+                "brandName": "无锡程辉文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "30",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315679,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 235,
+                "brandName": "三月",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "29",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315633,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招视频娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 222,
+                "brandName": "黄世鹏",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "29",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 313626,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "小姐姐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 6451,
+                "brandName": "科恩达科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "28",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 278771,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招兼职英语主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "20元/小时",
+                "objectType": 1,
+                "hotScore": 3890,
+                "brandName": "程辉文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530716426207_514.jpg-100",
+                "priority": "28",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 290275,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "赤猫寻国际教育线上主播主持",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "salary": "30元/次",
+                "objectType": 1,
+                "hotScore": 172,
+                "brandName": "北京赤猫寻教育咨询有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "28",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 317174,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪招聘主播 免费培训 工作地点无要求",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 3809,
+                "brandName": "热推（山东）文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "27",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 304047,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 416,
+                "brandName": "威海百峰文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "27",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 314393,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "全国线上主播，限女生",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 855,
+                "brandName": "胡志强",
+                "companyLogo": "https://qiniu-image.qtshe.com/1539139676120_881.jpg-100",
+                "priority": "27",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315011,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招手机直播主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "6000元/月",
+                "objectType": 1,
+                "hotScore": 250,
+                "brandName": "星皓文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1525422785800_541.png-100",
+                "priority": "27",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315454,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 495,
+                "brandName": "韩超",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "26",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 298219,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募抖音线上娱乐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 317,
+                "brandName": "腾泽影视文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524762462364_788.jpg-100",
+                "priority": "26",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315593,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招收线上兼职主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 215,
+                "brandName": "威海百峰文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "26",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 313668,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "网络直播艺人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 1177,
+                "brandName": "北京鑫河艺海文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "26",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 283750,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募主播，才艺主播，优质主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "1000元/月",
+                "objectType": 1,
+                "hotScore": 321,
+                "brandName": "张硕",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "25",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 295278,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪招虎牙秀场全职主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2078,
+                "brandName": "诺毅文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1504060833778_195.jpg-100",
+                "priority": "25",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 282247,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招主播 室内/二次元/户外",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2632,
+                "brandName": "虾仁文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530177713829_600.jpg-100",
+                "priority": "25",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 293889,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招美食板块主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "1000元/月",
+                "objectType": 1,
+                "hotScore": 40268,
+                "brandName": "斗萌娱乐传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534751349761_633.jpg-100",
+                "priority": "25",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 293634,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 712,
+                "brandName": "吴念",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "25",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 294157,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 742,
+                "brandName": "黄艳春",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "25",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 296072,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招线上女主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "200元/月",
+                "objectType": 1,
+                "hotScore": 1049,
+                "brandName": "黄浩斌",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "24",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 314437,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 469,
+                "brandName": "杭州众合启杭文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "24",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 295182,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "重金招乐器类兼职(全职)主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 2782,
+                "brandName": "远方文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501056805327_281.jpg-100",
+                "priority": "24",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 308879,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招视频主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 1160,
+                "brandName": "晓风文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524036695517_590.jpg-100",
+                "priority": "23",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 278713,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "手机主播招聘，非诚勿扰",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 94,
+                "brandName": "起缘文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1523696149479_850.jpg-100",
+                "priority": "23",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315338,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 531,
+                "brandName": "四川半糖影视传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "23",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 294862,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招视频主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "1500元/其他",
+                "objectType": 1,
+                "hotScore": 1010,
+                "brandName": "海南锦韵云笙文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "23",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 271208,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "100元/天",
+                "objectType": 1,
+                "hotScore": 1586,
+                "brandName": "左岸影视传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501684807203_645.jpg-100",
+                "priority": "23",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 308353,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招线上主播，手机直播红人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4500元/月",
+                "objectType": 1,
+                "hotScore": 8136,
+                "brandName": "远方文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501056805327_281.jpg-100",
+                "priority": "22",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 301993,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "不露脸新模式声音主播（未成年勿扰）",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3500元/月",
+                "objectType": 1,
+                "hotScore": 3902,
+                "brandName": "洛阳策氏文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "22",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316866,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招网络主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 1930,
+                "brandName": "福建百花汇文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "21",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 307180,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招网红脸美女，露脸拍摄抖音小视频",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "30元/其他",
+                "objectType": 1,
+                "hotScore": 263,
+                "brandName": "天津正川文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535880758488_754.jpg-100",
+                "priority": "20",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 316649,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘斗鱼线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 1424,
+                "brandName": "东营集运",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "20",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 309001,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招主播(限颜值较好者报名，颜值不好勿扰)",
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于20小时",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 2822,
+                "brandName": "多米诺贸易",
+                "companyLogo": "https://qiniu-image.qtshe.com/1529375418655_794.jpg-100",
+                "priority": "19",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 274851,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "5000起诚招才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 1496,
+                "brandName": "泡一泡文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522833221019_473.jpg-100",
+                "priority": "19",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 287766,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "线上不露脸歌手主播 专业歌手 18岁以上",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 6290,
+                "brandName": "青岛茉蔻文化产业有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "17",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 296053,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "长期招在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "依据个人时间安排",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 474,
+                "brandName": "杭州正盛文化传媒有限责任公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1523845811005_594.jpg-100",
+                "priority": "17",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 296824,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "主播线上艺人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 734,
+                "brandName": "杭州搜骐文化创意有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "16",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 274798,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "创娱传媒招聘线上主播啦",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 806,
+                "brandName": "北京创娱文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1545793172248_514.png-100",
+                "priority": "15",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 294899,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 6125,
+                "brandName": "瑷晨文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524212651138_747.jpg-100",
+                "priority": "15",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 266749,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 594,
+                "brandName": "15751626347",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "15",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 298455,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘线上优质主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 1599,
+                "brandName": "幻音文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522284384739_563.jpg-100",
+                "priority": "14",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 264755,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪塑造主播达人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 5016,
+                "brandName": "风源时代文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1521801071948_20.jpg-100",
+                "priority": "14",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 269967,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线聊天才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 400,
+                "brandName": "重庆漫咖文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1550138523385_853.png-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315629,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招在线网络主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "salary": "1000元/其他",
+                "objectType": 1,
+                "hotScore": 338,
+                "brandName": "广州苗苗文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 315525,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招抖音主播，保底3000起",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 826,
+                "brandName": "伍玖贰肆文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 284067,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "网络主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 1606,
+                "brandName": "杭州众合启杭文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 277614,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "腾讯now主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "工作日",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 708,
+                "brandName": "晓风文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524036695517_590.jpg-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 285218,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "简单直播聊天赚钱（可在家工作）",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 28334,
+                "brandName": "洛阳志凌文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 286144,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "底薪+提成主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 713,
+                "brandName": "苏州小红裙文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.7.png-100",
+                "priority": "13",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 297355,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "网·易CC招聘颜艺游戏主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 4734,
+                "brandName": "桃米艺游网络",
+                "companyLogo": "https://qiniu-image.qtshe.com/1521534488321_899.jpg-100",
+                "priority": "12",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 309583,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "高薪招聘主播小仙女",
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于25小时",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 760,
+                "brandName": "桂宝文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530979934303_904.jpg-100",
+                "priority": "11",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 278824,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招募优质线上主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 8391,
+                "brandName": "博凯凤真传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1520653376887_621.jpg-100",
+                "priority": "11",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 268393,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招YY直播/主播",
+                "addressDetail": "颐和商厦",
+                "jobDate": "26天156小时保底5000",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "distance": "1161.17km",
+                "objectType": 1,
+                "hotScore": 1908,
+                "brandName": "南京网欣文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "11",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 296236,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "视频才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 2324,
+                "brandName": "誉典传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500949699659_889.jpg-100",
+                "priority": "9",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 274959,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘有才艺有梦想对挣钱有欲望才艺达人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 678,
+                "brandName": "北京红秀坊科技文化有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1544608397166_656.png-100",
+                "priority": "9",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 284438,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "爱奇艺唱歌主播（短期兼职勿扰）",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 1454,
+                "brandName": "聚焦传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1509079593420_390.jpg-100",
+                "priority": "8",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 311595,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "主播，会唱歌会跳舞的小姐姐小哥哥看过来",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4500元/月",
+                "objectType": 1,
+                "hotScore": 1822,
+                "brandName": "舞动文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527047511823_809.jpg-100",
+                "priority": "8",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 275345,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招日结周结网红主播了解下",
+                "addressDetail": "不限工作地点",
+                "jobDate": "每天三小时",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "4000元/月",
+                "objectType": 1,
+                "hotScore": 2649,
+                "brandName": "醉亿文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524028028807_913.png-100",
+                "priority": "8",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 298810,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招舞蹈主播2名",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 647,
+                "brandName": "北京鑫河艺海文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "6",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 285658,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "兼职主播，保底3K",
+                "addressDetail": "不限工作地点",
+                "jobDate": "双方协商",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 2191,
+                "brandName": "星秀文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1532402435293_353.jpg-100",
+                "priority": "6",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 300051,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "绝地求生美女主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 3109,
+                "brandName": "吴佳勋",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536557338232_948.jpg-100",
+                "priority": "6",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 308346,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "腾讯花样直播招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 1131,
+                "brandName": "深圳市梦响之声文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "4",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 283893,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "腾讯花样直播招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 1131,
+                "brandName": "深圳市梦响之声文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "4",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 283893,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招艺人主播实习生",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 1275,
+                "brandName": "南京泡一泡文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "3",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 300641,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 913,
+                "brandName": "回静",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 307089,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘全国线上线下主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "工作日",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 1674,
+                "brandName": "朱传庆",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 290556,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "主播经纪人招募",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 6825,
+                "brandName": "美美文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1502160197025_1229.jpg-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 291324,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘刷量平台全职音频交友主持",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 1771,
+                "brandName": "朱钰",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 309868,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "会唱歌 会跳舞的小哥哥小姐姐主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 5863,
+                "brandName": "舞动文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527047511823_809.jpg-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 310788,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "短视频达人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 3252,
+                "brandName": "武汉点动文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 310187,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "网络线上、线下主播招募",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 7558,
+                "brandName": "何杨杨",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 269422,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "埃俪恩特护肤诚招在线主播，有经验的优先",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "100元/天",
+                "objectType": 1,
+                "hotScore": 1021,
+                "brandName": "薛金玲",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 274195,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "网络电台陪玩主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "50元/天",
+                "objectType": 1,
+                "hotScore": 14480,
+                "brandName": "誉典传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500949699659_889.jpg-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 274954,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "兼职主播星探，招募主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "salary": "70元/次",
+                "objectType": 1,
+                "hotScore": 20689,
+                "brandName": "陈浩",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 2,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 275286,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘一对一视频主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "salary": "300元/天",
+                "objectType": 1,
+                "hotScore": 2637,
+                "brandName": "吴智龙",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 275321,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘在线主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "1500元/月",
+                "objectType": 1,
+                "hotScore": 1333,
+                "brandName": "施倩倩",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 266851,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘在线主播(可兼职)",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 6864,
+                "brandName": "黑龙江金地影视传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 278149,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "艺人主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "5000元/月",
+                "objectType": 1,
+                "hotScore": 2917,
+                "brandName": "仓廪（北京）文化传媒有限责任公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 277264,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2500元/月",
+                "objectType": 1,
+                "hotScore": 1014,
+                "brandName": "陈璐",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 278259,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招聘在线美食主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "工作日",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "100元/次",
+                "objectType": 1,
+                "hotScore": 3274,
+                "brandName": "郑州市管城回族区山海食品商行",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 298014,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "招才艺主播",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "3000元/月",
+                "objectType": 1,
+                "hotScore": 2137,
+                "brandName": "艺语传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1543631715917_340.jpg-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 300157,
+                "sourceTag": 0
+            },
+            {
+                "qqRemark": {},
+                "qtsRemark": "{}",
+                "title": "主播经纪人",
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意日期",
+                "cycleType": {
+                    "key": "2",
+                    "value": "长期兼职"
+                },
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "salary": "2000元/月",
+                "objectType": 1,
+                "hotScore": 15787,
+                "brandName": "仓廪（北京）文化传媒有限责任公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+                "priority": "0",
+                "jobLineType": 1,
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+                "partJobId": 283906,
+                "sourceTag": 0
+            }
+        ]
+    },
+    "extra": {}
+}
