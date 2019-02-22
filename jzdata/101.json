@@ -101,28 +101,6 @@
             {
                 "qqRemark": {},
                 "qtsRemark": "{}",
-                "objectType": 2,
-                "resourceLocation": {
-                    "resourceId": 2200737,
-                    "title": "周末高薪兼职",
-                    "subTitle": "周末高薪兼职",
-                    "targetUrl": "QTSWebViewController",
-                    "image": "https://qiniu-image.qtshe.com/1550730433188_465.jpg",
-                    "shareImage": "",
-                    "resourceLocation": 4,
-                    "resourceType": 8,
-                    "jumpType": 1,
-                    "param": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"portType\":\"1\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=45b9d2777e2a52f64757a76ea98c0aec\"}]",
-                    "openType": 1,
-                    "contentId": 178148939,
-                    "jumpKey": "USER_STATIC_PAGE",
-                    "jumpParam": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=45b9d2777e2a52f64757a76ea98c0aec\"}]"
-                },
-                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
-            },
-            {
-                "qqRemark": {},
-                "qtsRemark": "{}",
                 "title": "陌陌直播招募 一对一培训",
                 "addressDetail": "不限工作地点",
                 "jobDate": "任意日期",
