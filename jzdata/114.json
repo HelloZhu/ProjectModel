@@ -97,27 +97,6 @@
 		}, {
 			"qqRemark": {},
 			"qtsRemark": "{}",
-			"objectType": 2,
-			"resourceLocation": {
-				"resourceId": 2200737,
-				"title": "周末高薪兼职",
-				"subTitle": "周末高薪兼职",
-				"targetUrl": "QTSWebViewController",
-				"image": "https://qiniu-image.qtshe.com/1550730433188_465.jpg",
-				"shareImage": "",
-				"resourceLocation": 4,
-				"resourceType": 8,
-				"jumpType": 1,
-				"param": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"portType\":\"1\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=45b9d2777e2a52f64757a76ea98c0aec\"}]",
-				"openType": 1,
-				"contentId": 178148939,
-				"jumpKey": "USER_STATIC_PAGE",
-				"jumpParam": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=45b9d2777e2a52f64757a76ea98c0aec\"}]"
-			},
-			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
-		}, {
-			"qqRemark": {},
-			"qtsRemark": "{}",
 			"title": "诚招市场派单兼职多名",
 			"addressDetail": "在龙湖北京房山天街附近",
 			"jobDate": "周末节假日",
@@ -233,27 +212,6 @@
 			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
 			"partJobId": 318079,
 			"sourceTag": 0
-		}, {
-			"qqRemark": {},
-			"qtsRemark": "{}",
-			"objectType": 2,
-			"resourceLocation": {
-				"resourceId": 2194300,
-				"title": "开学超强“回血”攻略  ",
-				"subTitle": "开学超强“回血”攻略  ",
-				"targetUrl": "QTSWebViewController",
-				"image": "https://qiniu-image.qtshe.com/1550630989947_796.jpg",
-				"shareImage": "",
-				"resourceLocation": 8,
-				"resourceType": 8,
-				"jumpType": 1,
-				"param": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"portType\":\"1\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=39955d00ee162e20ca380c5b53583802\"}]",
-				"openType": 1,
-				"contentId": 178151117,
-				"jumpKey": "USER_STATIC_PAGE",
-				"jumpParam": "[{\"key\":\"targetUrl\",\"name\":\"跳转链接\",\"type\":\"String\",\"value\":\"https://m.qtshe.com/activity/v1?activityMark=39955d00ee162e20ca380c5b53583802\"}]"
-			},
-			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
 		}, {
 			"qqRemark": {},
 			"qtsRemark": "{}",
@@ -3558,6 +3516,1781 @@
 			"salaryType": 1,
 			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
 			"partJobId": 317879,
+			"sourceTag": 0
+		},{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘线上才艺主播",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "0",
+				"value": "其他"
+			},
+			"salary": "2000元/月",
+			"objectType": 1,
+			"hotScore": 6,
+			"brandName": "黄世鹏",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "333",
+			"jobLineType": 1,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317879,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "诚聘北京丰台长期合作英语兼职老师",
+			"addressDetail": "能动英语屋六里桥中心",
+			"jobDate": "星期五",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "2",
+				"value": "周结"
+			},
+			"salary": "150元/天",
+			"distance": "1938.91km",
+			"objectType": 1,
+			"hotScore": 29,
+			"brandName": "北京博乐众智教育科技有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1550655555672_738.png-100",
+			"priority": "333",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317634,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招商场派单人员多名",
+			"addressDetail": "在龙湖北京房山天街附近",
+			"jobDate": "周末节假日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "2",
+				"value": "周结"
+			},
+			"salary": "100元/天",
+			"objectType": 1,
+			"hotScore": 37,
+			"brandName": "北京至尊星恒体育文化交流中心",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "333",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316009,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "诚聘销售金鹰",
+			"addressDetail": "不限工作地点",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "8000元/月",
+			"distance": "1972.08km",
+			"objectType": 1,
+			"hotScore": 85,
+			"brandName": "中国人寿保险股份有限公司北京市顺义支公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "333",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316064,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "阿吉豆北京华联万柳购物中心招聘",
+			"addressDetail": "北京华联(万柳购物中心)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "4000元/月",
+			"distance": "1949.78km",
+			"objectType": 1,
+			"hotScore": 280,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "331",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313633,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "关于远方的旅行歌单",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月18日 ~ 2月25日 (共8天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "20元/次",
+			"objectType": 1,
+			"hotScore": 108085,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "327",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315894,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "《朝花夕誓》观影员大招募",
+			"addressDetail": "不限工作地点",
+			"jobDate": "与商家确认",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "0元/其他",
+			"objectType": 1,
+			"hotScore": 7922,
+			"brandName": "弧途科技平台部",
+			"companyLogo": "https://qiniu-image.qtshe.com/1509518345376_1797.jpg-100",
+			"priority": "324",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317250,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘GAP导购",
+			"addressDetail": "天虹商场(北京新奥店)",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "24元/小时",
+			"distance": "1954.09km",
+			"objectType": 1,
+			"hotScore": 36,
+			"brandName": "韩晓楠",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "306",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317681,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招十名服装销售人员",
+			"addressDetail": "傲城融富中心",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3000元/月",
+			"distance": "1956.89km",
+			"objectType": 1,
+			"hotScore": 148,
+			"brandName": "福建省盛图商务服务有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "306",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 297781,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "兰芳园招大量服务员",
+			"addressDetail": "在枫蓝国际中心附近",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "4300元/月",
+			"objectType": 1,
+			"hotScore": 182,
+			"brandName": "兰芳园",
+			"companyLogo": "https://qiniu-image.qtshe.com/1547600602590_345.jpg-100",
+			"priority": "306",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314653,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "信息审核员",
+			"addressDetail": "南法信(地铁站)",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3750元/月",
+			"distance": "1969.86km",
+			"objectType": 1,
+			"hotScore": 434,
+			"brandName": "山东桔子领才人力资源服务有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "300",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317284,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "北京东城区奢侈品店铺小时工导购",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "25元/小时",
+			"objectType": 1,
+			"hotScore": 523,
+			"brandName": "新绿服务外包",
+			"companyLogo": "https://qiniu-image.qtshe.com/1489474671640_223.jpg-100",
+			"priority": "298",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 282548,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "方庄汉堡王招聘员工服务生",
+			"addressDetail": "汉堡王(方庄时代广场店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "16.3元/小时",
+			"distance": "1938.79km",
+			"objectType": 1,
+			"hotScore": 92,
+			"brandName": "汉堡王（北京）餐饮管理有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1546436077993_816.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316703,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "优瑞英语地推",
+			"addressDetail": "在天元和平商业大厦附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "2",
+				"value": "周结"
+			},
+			"salary": "120元/天",
+			"objectType": 1,
+			"hotScore": 356,
+			"brandName": "北京博睿翼动文化发展有限公司东城分公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 298275,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "诚招班服校园代理",
+			"addressDetail": "良乡大学城",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "600元/次",
+			"distance": "1920.91km",
+			"objectType": 1,
+			"hotScore": 46,
+			"brandName": "戎生",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314162,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "GAP招聘收银员/导购",
+			"addressDetail": "GAP(大悦城西单店)",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "24元/小时",
+			"distance": "1942.99km",
+			"objectType": 1,
+			"hotScore": 270,
+			"brandName": "盖璞（北京）商业有限公司西城分公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314186,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招募线下娱乐主播",
+			"addressDetail": "北京市",
+			"jobDate": "不限工作日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "4500元/月",
+			"objectType": 1,
+			"hotScore": 19,
+			"brandName": "吴东霖",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314882,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招销售助理",
+			"addressDetail": "华声国际大厦",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3000元/月",
+			"distance": "1944.15km",
+			"objectType": 1,
+			"hotScore": 29,
+			"brandName": "范佳敏",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315714,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招募线下娱乐主播",
+			"addressDetail": "北京市",
+			"jobDate": "不限工作日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "6000元/月",
+			"objectType": 1,
+			"hotScore": 16,
+			"brandName": "王智华",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "285",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315365,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "ZARA华宇购物中心学生兼职店员",
+			"addressDetail": "华宇时尚购物中心",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "23元/小时",
+			"distance": "1949.21km",
+			"objectType": 1,
+			"hotScore": 6136,
+			"brandName": "飒拉商业（上海）有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1549954399110_16.png-100",
+			"priority": "276",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 280843,
+			"sourceTag": 0
+		},{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘导购",
+			"addressDetail": "园景东区",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3000元/月",
+			"distance": "1943.30km",
+			"objectType": 1,
+			"hotScore": 109,
+			"brandName": "蔡小芳",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "276",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 307205,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "时尚配饰阿吉豆公益西桥导购",
+			"addressDetail": "阿吉豆(华联店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1934.56km",
+			"objectType": 1,
+			"hotScore": 40,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "276",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313647,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "兰芳园西单汉光店招服务员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "周末节假日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3800元/月",
+			"objectType": 1,
+			"hotScore": 317,
+			"brandName": "兰芳园",
+			"companyLogo": "https://qiniu-image.qtshe.com/1547600602590_345.jpg-100",
+			"priority": "275",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 307435,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招地推业务员",
+			"addressDetail": "在五方天雅网上商城c区电子商务总部办公附近",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3000元/月",
+			"objectType": 1,
+			"hotScore": 321,
+			"brandName": "北京旭泰升汽配销售有限责任公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "266",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 278509,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "ZARA富力广场学生兼职店员",
+			"addressDetail": "北京富力广场购物中心",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "23元/小时",
+			"distance": "1943.08km",
+			"objectType": 1,
+			"hotScore": 3230,
+			"brandName": "飒拉商业（上海）有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1549954399110_16.png-100",
+			"priority": "265",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 280888,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招扫码推广员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "8000元/月",
+			"objectType": 1,
+			"hotScore": 322,
+			"brandName": "王燕宏",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314456,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "汉堡王北京望京诚盈门店招打烊组长",
+			"addressDetail": "望京诚盈中心",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "22元/小时",
+			"distance": "1956.25km",
+			"objectType": 1,
+			"hotScore": 31,
+			"brandName": "汉堡王（北京）餐饮管理有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1546436077993_816.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316692,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "手机店招聘，长期兼职，长期导购",
+			"addressDetail": "在恒安卫士安检驻勤基地附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3000元/月",
+			"objectType": 1,
+			"hotScore": 182,
+			"brandName": "陶文文",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315096,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "德仪国际招聘销售助理",
+			"addressDetail": "不限工作地点",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "100元/天",
+			"objectType": 1,
+			"hotScore": 185,
+			"brandName": "德仪国际贸易",
+			"companyLogo": "https://qiniu-image.qtshe.com/1525423161992_813.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 276271,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘销售",
+			"addressDetail": "在水上人间(兴华中街)附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "4000元/月",
+			"objectType": 1,
+			"hotScore": 596,
+			"brandName": "李瑞凯",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 277765,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "ZARA朝阳大悦城学生兼职店员",
+			"addressDetail": "朝阳大悦城",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "23元/小时",
+			"distance": "1947.06km",
+			"objectType": 1,
+			"hotScore": 3884,
+			"brandName": "飒拉商业（上海）有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1549954399110_16.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 280873,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "搏击行业培训专员",
+			"addressDetail": "首都体育学院",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "4",
+				"value": "完工结算"
+			},
+			"salary": "100元/次",
+			"distance": "1949.99km",
+			"objectType": 1,
+			"hotScore": 118,
+			"brandName": "吴卓谦",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316944,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘服务员",
+			"addressDetail": "在大栅栏东街商业步行街附近",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "100元/天",
+			"objectType": 1,
+			"hotScore": 409,
+			"brandName": "前门缘餐饮",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 306747,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招销售实习生及全职",
+			"addressDetail": "泰禾·北京院子营销中心",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "6000元/月",
+			"distance": "2013.83km",
+			"objectType": 1,
+			"hotScore": 59,
+			"brandName": "文杨洁",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313097,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "时尚配饰阿吉豆远洋未来广场导购",
+			"addressDetail": "阿吉豆(远洋·未来广场购物中心)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1952.54km",
+			"objectType": 1,
+			"hotScore": 37,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313643,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招时尚配饰阿吉豆西单店员",
+			"addressDetail": "阿吉豆(大悦城西单店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1943.04km",
+			"objectType": 1,
+			"hotScore": 45,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313653,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "时尚配饰阿吉豆大兴龙湖导购",
+			"addressDetail": "阿吉豆(北京龙湖大兴天街)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1917.69km",
+			"objectType": 1,
+			"hotScore": 102,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313670,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "高薪招拉访人员",
+			"addressDetail": "在庄胜崇光百货商场本馆附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "130元/天",
+			"objectType": 1,
+			"hotScore": 42,
+			"brandName": "冉照光",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314625,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招派单员",
+			"addressDetail": "峰尚骄阳",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "200元/天",
+			"distance": "1956.85km",
+			"objectType": 1,
+			"hotScore": 293,
+			"brandName": "庞志鹏",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317730,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘线上才艺主播",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3000元/月",
+			"objectType": 1,
+			"hotScore": 136,
+			"brandName": "李媛媛",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "250",
+			"jobLineType": 1,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317895,
+			"sourceTag": 0
+		},{
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "只招化工专业博硕写作老师",
+			"addressDetail": "不限工作地点",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "4000元/月",
+			"objectType": 1,
+			"hotScore": 123,
+			"brandName": "山东采风文化传媒有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "248",
+			"jobLineType": 1,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316823,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "ZARA王府井学生兼职店员",
+			"addressDetail": "王府井",
+			"jobDate": "周末节假日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "23元/小时",
+			"distance": "1944.06km",
+			"objectType": 1,
+			"hotScore": 2740,
+			"brandName": "飒拉商业（上海）有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1549954399110_16.png-100",
+			"priority": "229",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 280858,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "阿吉豆北京龙湖房山天街店招聘",
+			"addressDetail": "龙湖北京大兴天街",
+			"jobDate": "做六休一",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "4000元/月",
+			"distance": "1918.44km",
+			"objectType": 1,
+			"hotScore": 101,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "229",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313631,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "时尚配饰阿吉豆西直门导购",
+			"addressDetail": "阿吉豆(凯德MALL·西直门)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1946.19km",
+			"objectType": 1,
+			"hotScore": 33,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "229",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313645,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "时尚配饰阿吉豆通州万达店员",
+			"addressDetail": "阿吉豆(万达广场通州店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1945.73km",
+			"objectType": 1,
+			"hotScore": 53,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "229",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313651,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "时尚配饰阿吉豆永旺国际商城导购",
+			"addressDetail": "阿吉豆(永旺国际商城店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3300元/月",
+			"distance": "1962.61km",
+			"objectType": 1,
+			"hotScore": 59,
+			"brandName": "上海阿吉豆投资管理咨询有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1548296531580_149.png-100",
+			"priority": "229",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313657,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招扫码推广员",
+			"addressDetail": "不限工作地点",
+			"jobDate": "2月23日 ~ 2月24日 (共2天)",
+			"cycleType": {
+				"key": "1",
+				"value": "短期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "150元/天",
+			"objectType": 1,
+			"hotScore": 227,
+			"brandName": "五只袋鼠（天津）电子商务有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "228",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317280,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "北京西城区西单大悦城奢侈品店铺助理",
+			"addressDetail": "西单大悦城",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "22元/小时",
+			"distance": "1943.79km",
+			"objectType": 1,
+			"hotScore": 2290,
+			"brandName": "新绿服务外包",
+			"companyLogo": "https://qiniu-image.qtshe.com/1489474671640_223.jpg-100",
+			"priority": "227",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 281671,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "大鸭梨烤鸭店（曙光花园店）招聘服务人员",
+			"addressDetail": "在望河园附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3500元/月",
+			"objectType": 1,
+			"hotScore": 101,
+			"brandName": "曙光大鸭梨",
+			"companyLogo": "https://qiniu-image.qtshe.com/1531739595727_225.jpg-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 312058,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "柜台点餐员",
+			"addressDetail": "悠唐购物中心",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "18元/小时",
+			"distance": "1945.00km",
+			"objectType": 1,
+			"hotScore": 340,
+			"brandName": "汉堡王（北京）餐饮管理有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/1546436077993_816.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 316472,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "融桥海鲜招聘服务员兼职",
+			"addressDetail": "融桥海鲜大排档(亦庄店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "1",
+				"value": "日结"
+			},
+			"salary": "20元/小时",
+			"distance": "1932.98km",
+			"objectType": 1,
+			"hotScore": 156,
+			"brandName": "王思羽",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 317733,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招大学在读实习生促销，多岗位缺人",
+			"addressDetail": "在海格国际大厦附近",
+			"jobDate": "工作日",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "3500元/月",
+			"objectType": 1,
+			"hotScore": 769,
+			"brandName": "李明东",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 274717,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招服务员",
+			"addressDetail": "在新奥购物中心-东b东北门附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "15元/小时",
+			"objectType": 1,
+			"hotScore": 214,
+			"brandName": "北京荷蕊餐饮管理有限公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 282134,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "会籍顾问",
+			"addressDetail": "广渠路36号",
+			"jobDate": "只招全职",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "5000元/月",
+			"objectType": 1,
+			"hotScore": 421,
+			"brandName": "博明阳光体育",
+			"companyLogo": "https://qiniu-image.qtshe.com/1530279346108_465.jpg-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 288043,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "三义和酒楼国奥店招服务员员",
+			"addressDetail": "三义和酒楼(国奥村店)",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "23元/小时",
+			"distance": "1953.96km",
+			"objectType": 1,
+			"hotScore": 344,
+			"brandName": "北京中岭三义和餐饮有限公司第一分公司",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 312838,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "志新路麦当劳",
+			"addressDetail": "在橘子洲头湘菜坊(志新店)附近",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "18元/小时",
+			"objectType": 1,
+			"hotScore": 135,
+			"brandName": "北京麦当劳",
+			"companyLogo": "https://qiniu-image.qtshe.com/1530519119796_834.jpg-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 313627,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "天竺吉野家诚聘见习助理，大专学历及以上",
+			"addressDetail": "吉野家(欧陆时尚购物中心店)",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "4000元/月",
+			"distance": "1963.03km",
+			"objectType": 1,
+			"hotScore": 62,
+			"brandName": "吉野家",
+			"companyLogo": "https://qiniu-image.qtshe.com/1532139876213_949.jpg-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 314777,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "来广营汉堡王招聘学生兼职服务员",
+			"addressDetail": "望京诚盈中心",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "16.5元/小时",
+			"distance": "1956.26km",
+			"objectType": 1,
+			"hotScore": 221,
+			"brandName": "李笑星",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315708,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "招聘服务员",
+			"addressDetail": "恒泰中心",
+			"jobDate": "任意日期",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "17元/小时",
+			"distance": "1937.32km",
+			"objectType": 1,
+			"hotScore": 234,
+			"brandName": "赵洋",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315768,
+			"sourceTag": 0
+		}, {
+			"qqRemark": {},
+			"qtsRemark": "{}",
+			"title": "汉堡王收银员",
+			"addressDetail": "世纪金源购物中心",
+			"jobDate": "依据个人时间安排",
+			"cycleType": {
+				"key": "2",
+				"value": "长期兼职"
+			},
+			"jobPattern": {
+				"key": "1",
+				"value": "普通"
+			},
+			"clearingForm": {
+				"key": "3",
+				"value": "月结"
+			},
+			"salary": "16.3元/小时",
+			"distance": "1947.35km",
+			"objectType": 1,
+			"hotScore": 201,
+			"brandName": "刘劲东",
+			"companyLogo": "https://qiniu-image.qtshe.com/company_default_4.18.0.png-100",
+			"priority": "222",
+			"jobLineType": 2,
+			"salaryType": 1,
+			"qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7",
+			"partJobId": 315890,
 			"sourceTag": 0
 		}]
 	},
